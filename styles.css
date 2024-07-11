@@ -1,0 +1,26 @@
+body{
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-family: Calibri;
+  font-size: 11;
+}
+
+.title {
+	color: rgb(0, 119, 255);
+	text-align: left;
+}
+
+* {
+  margin: 0px;
+}
+
+div.a {
+  text-align: justify;
+}
+
+h4 {
+  margin-top: 10px;
+}
+
